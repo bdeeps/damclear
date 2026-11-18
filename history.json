@@ -1,0 +1,1092 @@
+{
+  "title": "The history of dams",
+  "tagline": "From a desert wall in Jordan to the biggest power station on Earth, and the dams now coming down.",
+  "intro": "People have built walls across rivers for over 5,000 years. The first ones stored water for crops and towns. Later, engineers learned that water pushes on a wall, and under it. Some of that learning came from dams that failed. Today dams make power, control floods, and sometimes get removed.",
+  "eras": [
+    {
+      "id": "earth",
+      "name": "Earth, stone and clever channels",
+      "from": -3500,
+      "to": 1400,
+      "color": "#c49bff",
+      "summary": "Early builders store water in earth and stone. Some dams fail and some last for ages."
+    },
+    {
+      "id": "science",
+      "name": "Theory from failure",
+      "from": 1837,
+      "to": 1963,
+      "color": "#ff7a59",
+      "summary": "Engineers learn about uplift, soil and foundations. Failures drive new rules."
+    },
+    {
+      "id": "power",
+      "name": "Water into electricity",
+      "from": 1878,
+      "to": 1895,
+      "color": "#ffb547",
+      "summary": "Falling water starts to light houses and towns."
+    },
+    {
+      "id": "giant",
+      "name": "Giants",
+      "from": 1936,
+      "to": 2013,
+      "color": "#5ce1a9",
+      "summary": "Concrete and earth dams grow taller and bigger. They change rivers and move people."
+    },
+    {
+      "id": "undo",
+      "name": "Safety and second thoughts",
+      "from": 1975,
+      "to": 2017,
+      "color": "#8ef0ff",
+      "summary": "Disasters and river damage lead to new safety work and, at Elwha, removal."
+    }
+  ],
+  "events": [
+    {
+      "year": -3500,
+      "date": "c. 3500–3000 BCE",
+      "era": "earth",
+      "art": "waterdrop",
+      "title": "The oldest known dam",
+      "who": "Builders of Jawa",
+      "where": "Jawa, Jordan",
+      "country": "Jordan",
+      "text": "Radiocarbon dates put the first wall at Jawa around 3500–3400 BCE, though some sources give a later date. Britannica places it in the 4th millennium BCE. Low walls of stone and earth, about 4–5 m high, led flood water from a desert wadi into reservoirs.",
+      "why": "Even the first dams were built to store scarce water.",
+      "box": "pressure",
+      "sources": [
+        0,
+        3
+      ]
+    },
+    {
+      "year": -2650,
+      "date": "c. 2700–2600 BCE",
+      "era": "earth",
+      "art": "wave",
+      "key": true,
+      "title": "A dam breaks before it is finished",
+      "who": "Egyptian builders",
+      "where": "Wadi al-Garawi, Egypt",
+      "country": "Egypt",
+      "text": "Sadd el-Kafara was about 113 m long and 14 m high. No spillway has been found, and a flood overtopped its core before the rock fill was done. Sources differ on whether it failed during building or soon after. Georg Schweinfurth found the ruins in 1885.",
+      "why": "It is an early lesson in dam safety: give floods a safe way out.",
+      "box": "failure",
+      "sources": [
+        0,
+        2
+      ]
+    },
+    {
+      "year": -750,
+      "date": "c. 8th century BCE (sources differ)",
+      "era": "earth",
+      "art": "earth",
+      "title": "The Marib dam waters Sheba",
+      "who": "Sabaean builders",
+      "where": "Marib, Yemen",
+      "country": "Yemen",
+      "text": "The earth dam at Marib began about 580 m long and 4 m high. Later rulers raised it. Britannica describes it as over 15 m high and nearly 600 m long, feeding irrigation canals for more than a thousand years.",
+      "why": "It fed a whole kingdom for over a thousand years.",
+      "box": "embankment",
+      "sources": [
+        0,
+        4
+      ]
+    },
+    {
+      "year": -256,
+      "date": "c. 256 BCE",
+      "era": "earth",
+      "art": "boat",
+      "title": "Dujiangyan splits a river instead of damming it",
+      "who": "Engineers of ancient Sichuan (traditionally Li Bing)",
+      "where": "Sichuan, China",
+      "country": "China",
+      "text": "Work on Dujiangyan began around 256 BCE. A bypass dike, a floodgate and a narrow intake channel share the Min River between flood control and irrigation, with no large dam. UNESCO says it now irrigates about 668,700 hectares.",
+      "why": "It shows you can tame a river by guiding it.",
+      "box": "floods",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 60,
+      "date": "c. 60 CE",
+      "era": "earth",
+      "art": "building",
+      "title": "Romans build tall masonry dams",
+      "who": "Roman engineers",
+      "where": "Subiaco, Italy",
+      "country": "Italy",
+      "text": "The Subiaco dams were made as pleasure lakes for Nero. The largest was a masonry gravity dam, reconstructed at about 40 m high and 13.5 m thick, perhaps taller. A flood destroyed it in 1305.",
+      "why": "Weight can hold water back.",
+      "box": "types",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 100,
+      "date": "1st–2nd century CE",
+      "era": "earth",
+      "art": "road",
+      "title": "Proserpina still holds water",
+      "who": "Roman engineers",
+      "where": "Mérida, Spain",
+      "country": "Spain",
+      "text": "Proserpina supplied the Roman city of Emerita Augusta. It is 12 m high, with a concrete core faced in masonry and backed by earth and buttresses. It is still in use, and UNESCO lists Mérida's Roman dams among its surviving works.",
+      "why": "A well-built embankment can last nearly 2,000 years.",
+      "box": "embankment",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 100,
+      "date": "c. 1st–2nd century CE (sources differ)",
+      "era": "earth",
+      "art": "wave",
+      "key": true,
+      "title": "Kallanai: a stone weir on the Kaveri",
+      "who": "King Karikalan (by tradition)",
+      "where": "Tamil Nadu, India",
+      "country": "India",
+      "text": "Kallanai, also called the Grand Anicut, is a stone structure about 329 m long across the Kaveri (Cauvery). Tradition credits the Chola king Karikalan. It guides river water into the delta and is still in use.",
+      "why": "It has fed delta farms for about 1,900 years.",
+      "box": "floods",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 570,
+      "date": "c. 570–575 CE",
+      "era": "earth",
+      "art": "wave",
+      "title": "The Marib dam fails for good",
+      "who": "Himyarite Yemen",
+      "where": "Marib, Yemen",
+      "country": "Yemen",
+      "text": "The dam was breached and mended many times. Its last overtopping is dated to 570 or 575 CE, and this time it was left unrepaired. The Quran refers to the \"flood of the dam\".",
+      "why": "Dams need constant care, or they fail.",
+      "box": "failure",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1153,
+      "date": "1153–1186",
+      "era": "earth",
+      "art": "earth",
+      "title": "Sri Lanka's great tank",
+      "who": "King Parakramabahu I",
+      "where": "Polonnaruwa, Sri Lanka",
+      "country": "Sri Lanka",
+      "text": "Parakramabahu I joined older tanks into Parakrama Samudra. Its earth embankment is about 12.4 km long, and it irrigates over 10,000 hectares of rice land.",
+      "why": "Earth embankments can store water on a huge scale.",
+      "box": "embankment",
+      "sources": [
+        7,
+        11
+      ]
+    },
+    {
+      "year": 1300,
+      "date": "Early 14th century",
+      "era": "earth",
+      "art": "building",
+      "key": true,
+      "title": "Persia builds the first big thin arch dams",
+      "who": "Il-Khanid Mongol builders",
+      "where": "Iran",
+      "country": "Iran",
+      "text": "Kebar Dam in Iran, 26 m high, was built early in the 14th century. Britannica counts it, with Kurit, among the first large thin-arch dams. An arch passes water pressure into the valley walls.",
+      "why": "It uses shape, not just weight.",
+      "box": "types",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1350,
+      "date": "14th century, raised later",
+      "era": "earth",
+      "art": "mountain",
+      "title": "Kurit Dam rises to 64 m",
+      "who": "Persian builders",
+      "where": "Iran",
+      "country": "Iran",
+      "text": "Kurit Dam was built in the early 14th century and raised over the centuries to 64 m. It stayed the tallest dam in the world until about 1900. Its reservoir has since filled with silt.",
+      "why": "For centuries, no dam beat it.",
+      "box": "types",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1837,
+      "date": "1837",
+      "era": "science",
+      "art": "waterdrop",
+      "title": "Fish ladders get a patent",
+      "who": "Richard McFarlan",
+      "where": "Bathurst, Canada",
+      "country": "Canada",
+      "text": "Rough branch fishways were reported in 17th-century France. A pool-and-weir ladder was built on Scotland's River Teith about 1830. McFarlan is said to have patented a fishway in 1837. G. Denil's design came in 1909.",
+      "why": "Dams block fish, and ladders try to fix that.",
+      "box": "floods",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "c. 1878–1880",
+      "era": "power",
+      "art": "bolt",
+      "title": "A house lit by falling water",
+      "who": "William Armstrong",
+      "where": "Northumberland, England",
+      "country": "England",
+      "text": "Armstrong made lakes on his Cragside estate and used water power to make electricity. Historic England records it as the first house lit by hydroelectricity. The National Trust dates its first electric light to 1878.",
+      "why": "Dams could now make electricity.",
+      "box": "power",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "30 September 1882",
+      "era": "power",
+      "art": "bolt",
+      "key": true,
+      "title": "Appleton opens the Vulcan Street plant",
+      "who": "H. J. Rogers",
+      "where": "Appleton, Wisconsin, USA",
+      "country": "USA",
+      "text": "The plant on the Fox River began on 30 September 1882 and made about 12.5 kW. ASME calls it the first Edison hydroelectric central station for private and commercial customers in North America. ETHW calls it the world's first hydroelectric central station.",
+      "why": "It was the start of hydropower as a public utility.",
+      "box": "power",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1889,
+      "date": "31 May 1889",
+      "era": "science",
+      "art": "wave",
+      "title": "The Johnstown Flood",
+      "who": "South Fork Fishing and Hunting Club",
+      "where": "Pennsylvania, USA",
+      "country": "USA",
+      "text": "After heavy rain, South Fork Dam failed at about 3:10 pm. 2,209 people died. The club had patched the dam badly, lowered its top and put screens over the spillway, which clogged.",
+      "why": "It showed the cost of neglected dams.",
+      "box": "failure",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "1881–1890 (opened 1892)",
+      "era": "science",
+      "art": "building",
+      "title": "Vyrnwy: a big stone dam for a city",
+      "who": "Thomas Hawksley and George Deacon",
+      "where": "Wales, UK",
+      "country": "UK",
+      "text": "Lake Vyrnwy's masonry dam is 44 m high and 358 m long. Hawksley led the engineering until 1885, then Deacon took over. A 110 km aqueduct carries the water to Liverpool.",
+      "why": "Cities began to move water from far-off valleys.",
+      "box": "types",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "27 April 1895",
+      "era": "science",
+      "art": "wave",
+      "title": "Bouzey fails and uplift gets attention",
+      "who": "French dam builders",
+      "where": "Vosges, France",
+      "country": "France",
+      "text": "About 180 m of the masonry gravity dam at Bouzey collapsed near Épinal. About 85 people died. Cracks and water pressure inside the wall (uplift) were blamed, along with poor design and building.",
+      "why": "Water pushes up from below, too.",
+      "box": "failure",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1895",
+      "era": "power",
+      "art": "coil",
+      "title": "Niagara starts big alternating-current hydropower",
+      "who": "Westinghouse engineers",
+      "where": "Niagara Falls, USA",
+      "country": "USA",
+      "text": "Adams Power Station No. 1 began work in 1895. Westinghouse built its 5,000 hp generators, and engineers including Benjamin Lamme and Nikola Tesla shaped the design. Output reached about 37 MW by 1896.",
+      "why": "Hydropower was now working at big-city scale.",
+      "box": "power",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "1903",
+      "era": "science",
+      "art": "gear",
+      "title": "Automatic gates for floods",
+      "who": "M. Visvesvaraya",
+      "where": "Pune, India",
+      "country": "India",
+      "text": "Visvesvaraya designed and patented automatic weir gates. They were first fitted at Khadakvasla Dam near Pune in 1903, and later used at Krishna Raja Sagara.",
+      "why": "Gates can respond to floods without people.",
+      "box": "floods",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925",
+      "era": "science",
+      "art": "person",
+      "title": "The birth of soil mechanics",
+      "who": "Karl von Terzaghi",
+      "where": "Istanbul, Türkiye",
+      "country": "Türkiye",
+      "text": "While teaching at Robert College in Istanbul, Terzaghi wrote Erdbaumechanik, published in 1925. Britannica credits him with founding soil mechanics. He later chaired the consulting board for the Aswan High Dam until 1959.",
+      "why": "It gave engineers a way to understand soil and pore water.",
+      "box": "embankment",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "12 March 1928",
+      "era": "science",
+      "art": "wave",
+      "key": true,
+      "title": "St. Francis Dam collapses",
+      "who": "William Mulholland",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "The concrete dam gave way just before midnight, days after its reservoir first filled. Britannica gives an official toll of about 450 and says the true number was probably higher. The inquiry blamed rock that could not carry a dam.",
+      "why": "The foundation is part of the dam.",
+      "box": "failure",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "1 March 1936",
+      "era": "giant",
+      "art": "mountain",
+      "key": true,
+      "title": "Hoover Dam is finished",
+      "who": "Frank Crowe and Six Companies",
+      "where": "Nevada and Arizona, USA",
+      "country": "USA",
+      "text": "Hoover is a concrete arch-gravity dam, about 221 m (726 ft) high. Work began in 1931 and all features were done by 1 March 1936, ahead of schedule. Frank Crowe was general superintendent for the builders.",
+      "why": "Arch and gravity work together.",
+      "box": "types",
+      "sources": [
+        26,
+        27
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "1941–1942",
+      "era": "giant",
+      "art": "bolt",
+      "title": "Grand Coulee becomes a power giant",
+      "who": "U.S. Bureau of Reclamation",
+      "where": "Washington, USA",
+      "country": "USA",
+      "text": "The main dam and power plant were finished in 1941, and all generators by 1942. Grand Coulee is 168 m above bedrock and now has 6,809 MW installed. Three hatcheries make up for fish lost above the dam.",
+      "why": "Power came at a cost to fish.",
+      "box": "power",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "2 December 1959",
+      "era": "science",
+      "art": "wave",
+      "title": "Malpasset breaks",
+      "who": "Malpasset dam engineers",
+      "where": "Fréjus, France",
+      "country": "France",
+      "text": "Malpasset was an arch dam 60 m high. It failed at 9:11 pm during its first filling, and 421 people died. Water pressure from a fault, plus rock behaviour not yet understood, was blamed.",
+      "why": "Arch dams depend on sound rock.",
+      "box": "failure",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1956–1959",
+      "era": "giant",
+      "art": "bolt",
+      "title": "Kariba fills a river valley",
+      "who": "Kariba builders",
+      "where": "Zambia and Zimbabwe",
+      "country": "Zambia",
+      "text": "Kariba is a concrete arch dam 128 m high, built from 1956 to 1959. More than 30,000 Tonga (Batonka) people were resettled, and thousands of animals were moved in Operation Noah.",
+      "why": "Big dams move people and wildlife.",
+      "box": "power",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1959–1970",
+      "era": "giant",
+      "art": "building",
+      "title": "Aswan High Dam",
+      "who": "Egyptian engineers",
+      "where": "Egypt",
+      "country": "Egypt",
+      "text": "Aswan High Dam is a rock-fill dam 111 m high and 3,830 m long across the crest. It holds back Lake Nasser, and for the first time the Nile flood was under human control. The dam also traps silt that once fed farmland.",
+      "why": "It controlled the Nile but changed its silt.",
+      "box": "floods",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "9 October 1963",
+      "era": "science",
+      "art": "mountain",
+      "key": true,
+      "title": "Vajont: the dam stands but the wave kills",
+      "who": "Italian engineers",
+      "where": "Veneto, Italy",
+      "country": "Italy",
+      "text": "About 260–270 million m³ of rock fell into the reservoir. The wave rose 150–200 m above the 262 m dam and swept Longarone. About 2,000 people died. The dam itself was largely undamaged.",
+      "why": "A safe dam still needs safe slopes around it.",
+      "box": "failure",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1966,
+      "date": "1963–1966",
+      "era": "giant",
+      "art": "mountain",
+      "title": "Glen Canyon changes the Colorado",
+      "who": "U.S. Bureau of Reclamation",
+      "where": "Arizona, USA",
+      "country": "USA",
+      "text": "Glen Canyon Dam rises about 216 m above bedrock. Lake Powell began filling in 1963, power began in 1964, and the dam was dedicated in 1966. USGS says it changed the river's flow, temperature and sediment, adding to beach erosion and losses of native fish.",
+      "why": "Dams change rivers far downstream.",
+      "box": "floods",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "August 1975",
+      "era": "undo",
+      "art": "wave",
+      "key": true,
+      "title": "Banqiao and the typhoon flood",
+      "who": "Typhoon Nina",
+      "where": "Henan, China",
+      "country": "China",
+      "text": "About 1,000 mm of rain fell in a day. Banqiao was designed for 300 mm a day. It collapsed in the early hours of 8 August, and 61 other dams failed. Estimates run from about 26,000 deaths (official, from the flood) to 240,000 (with later disease and famine).",
+      "why": "It is the deadliest dam failure on record.",
+      "box": "failure",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "5 June 1976",
+      "era": "undo",
+      "art": "earth",
+      "key": true,
+      "title": "Teton Dam is eaten from inside",
+      "who": "U.S. Bureau of Reclamation",
+      "where": "Idaho, USA",
+      "country": "USA",
+      "text": "The earth dam failed while filling for the first time. Crews had tried to plug seepage that morning. The independent panel found internal erosion (piping) of the core in the right foundation trench. Eleven people died.",
+      "why": "It is the standard case of seepage failure.",
+      "box": "failure",
+      "sources": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1961–1980",
+      "era": "giant",
+      "art": "mountain",
+      "title": "Nurek: the tallest embankment dam",
+      "who": "Soviet engineers",
+      "where": "Tajikistan",
+      "country": "Tajikistan",
+      "text": "Nurek, an earth-fill dam on the Vakhsh River, is 300 m high and was finished in 1980. Guinness World Records lists it as the tallest embankment dam.",
+      "why": "Earth can go very high.",
+      "box": "embankment",
+      "sources": [
+        40,
+        41
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984–2007",
+      "era": "giant",
+      "art": "bolt",
+      "title": "Itaipu starts producing",
+      "who": "Brazil and Paraguay",
+      "where": "Paraná River",
+      "country": "Brazil",
+      "text": "Built from 1975 to 1982, Itaipu began generating in 1984. Two more units in 2007 brought it to 20 units and 14,000 MW. The dam is 196 m high and 7.9 km long.",
+      "why": "Hydropower can be shared across borders.",
+      "box": "power",
+      "sources": [
+        42
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006 and 2012",
+      "era": "giant",
+      "art": "bolt",
+      "key": true,
+      "title": "Three Gorges reaches full power",
+      "who": "Chinese engineers",
+      "where": "Hubei, China",
+      "country": "China",
+      "text": "The dam was completed in 2006, and all 32 main turbines were running by 2012. It has 22,500 MW of capacity. Estimates of the people moved range from about 1.1 to 1.4 million.",
+      "why": "It is hydropower at its largest.",
+      "box": "power",
+      "sources": [
+        43,
+        44
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "September 2011 to 2014",
+      "era": "undo",
+      "art": "leaf",
+      "key": true,
+      "title": "Elwha dams come down",
+      "who": "Lower Elwha Klallam Tribe and partners",
+      "where": "Washington, USA",
+      "country": "USA",
+      "text": "Removal of the Elwha and Glines Canyon dams began on 17 September 2011. NPS calls it the largest dam removal in US history. Elwha Dam was gone by about March 2012, and Glines Canyon by 2014. The dams had flooded the tribe's homelands.",
+      "why": "Salmon can again swim up the river.",
+      "box": "floods",
+      "sources": [
+        45,
+        46
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "2013–2014",
+      "era": "giant",
+      "art": "mountain",
+      "title": "Jinping-I: a 305 m arch dam",
+      "who": "Chinese engineers",
+      "where": "Sichuan, China",
+      "country": "China",
+      "text": "Jinping-I is a 305 m arch dam, widely called the tallest dam. Its sixth and last 600 MW generator started on 15 July 2014, for 3,600 MW in all.",
+      "why": "Arches can reach 300 m.",
+      "box": "types",
+      "sources": [
+        47
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "February 2017",
+      "era": "undo",
+      "art": "wave",
+      "title": "Oroville's spillway fails",
+      "who": "California Department of Water Resources",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Erosion threatened both the main and the emergency spillway. About 188,000 people downstream were told to leave. The 235 m dam, the highest in the US, held. The spillways were rebuilt with added safety features by 2018.",
+      "why": "The dam held, but the spillway almost didn't.",
+      "box": "failure",
+      "sources": [
+        48
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known dam",
+      "value": "c. 3500–3000 BCE",
+      "who": "Jawa, Jordan"
+    },
+    {
+      "label": "Early large thin arch dams",
+      "value": "early 1300s",
+      "who": "Kebar and Kurit, Iran"
+    },
+    {
+      "label": "First house lit by hydroelectricity",
+      "value": "c. 1878–1880",
+      "who": "Cragside, England"
+    },
+    {
+      "label": "Early hydroelectric central station",
+      "value": "1882",
+      "who": "Appleton, Wisconsin"
+    },
+    {
+      "label": "Tallest dam (widely cited)",
+      "value": "305 m",
+      "who": "Jinping-I, China"
+    },
+    {
+      "label": "Tallest embankment dam",
+      "value": "300 m",
+      "who": "Nurek, Tajikistan"
+    },
+    {
+      "label": "Largest US dam removal when it began",
+      "value": "2011",
+      "who": "Elwha, Washington"
+    }
+  ],
+  "people": [
+    {
+      "name": "Li Bing",
+      "life": "",
+      "role": "Qin hydrologist",
+      "from": "China",
+      "note": "Traditionally credited with planning Dujiangyan, which still waters the Chengdu Plain."
+    },
+    {
+      "name": "Karikalan",
+      "life": "",
+      "role": "Chola king",
+      "from": "India",
+      "note": "Credited by tradition with Kallanai, a stone weir still in use."
+    },
+    {
+      "name": "Parakramabahu I",
+      "life": "reigned 1153 – 1186",
+      "role": "King of Polonnaruwa",
+      "from": "Sri Lanka",
+      "note": "Joined old tanks into the great Parakrama Samudra."
+    },
+    {
+      "name": "M. Visvesvaraya",
+      "life": "1860 or 1861 – 1962",
+      "role": "Civil engineer",
+      "from": "India",
+      "note": "Patented automatic weir gates and designed Krishna Raja Sagara."
+    },
+    {
+      "name": "Karl von Terzaghi",
+      "life": "1883 – 1963",
+      "role": "Geotechnical engineer",
+      "from": "Austria",
+      "note": "Called the father of soil mechanics."
+    },
+    {
+      "name": "William Mulholland",
+      "life": "1855 – 1935",
+      "role": "Water engineer",
+      "from": "USA",
+      "note": "Chief engineer who oversaw the St. Francis Dam, which failed in 1928."
+    },
+    {
+      "name": "Frank Crowe",
+      "life": "1882 – 1946",
+      "role": "Construction engineer",
+      "from": "USA",
+      "note": "General superintendent for Six Companies, the Hoover Dam builders."
+    },
+    {
+      "name": "Adeline Smith",
+      "life": "1918 – 2013",
+      "role": "Lower Elwha Klallam elder",
+      "from": "USA",
+      "note": "Lobbied Congress in 1992 and lived to see the Elwha dams removed."
+    }
+  ],
+  "series": [
+    {
+      "id": "height",
+      "title": "How tall notable dams grew",
+      "unit": "metres",
+      "log": true,
+      "after": "giant",
+      "caption": "Selected notable dams. Heights changed with later raising and measuring, so treat these as rough.",
+      "points": [
+        {
+          "year": -3500,
+          "value": 4.5,
+          "label": "Jawa, Jordan: about 4.5 m"
+        },
+        {
+          "year": 60,
+          "value": 40,
+          "label": "Subiaco, Italy: about 40 m (reconstructed)"
+        },
+        {
+          "year": 1300,
+          "value": 26,
+          "label": "Kebar, Iran: 26 m"
+        },
+        {
+          "year": 1350,
+          "value": 64,
+          "label": "Kurit, Iran: 64 m after raising"
+        },
+        {
+          "year": 1936,
+          "value": 221,
+          "label": "Hoover Dam: 221 m"
+        },
+        {
+          "year": 1960,
+          "value": 262,
+          "label": "Vajont, Italy: 262 m"
+        },
+        {
+          "year": 1980,
+          "value": 300,
+          "label": "Nurek, Tajikistan: 300 m"
+        },
+        {
+          "year": 2013,
+          "value": 305,
+          "label": "Jinping-I, China: 305 m"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "How big hydropower plants grew",
+      "unit": "megawatts",
+      "log": true,
+      "after": "power",
+      "caption": "Selected plants. Adams is its peak output; Nurek is its design capacity.",
+      "points": [
+        {
+          "year": 1882,
+          "value": 0.0125,
+          "label": "Appleton: about 12.5 kW"
+        },
+        {
+          "year": 1896,
+          "value": 37,
+          "label": "Adams plant, Niagara: about 37 MW"
+        },
+        {
+          "year": 1980,
+          "value": 2700,
+          "label": "Nurek: 2,700 MW design capacity"
+        },
+        {
+          "year": 2007,
+          "value": 14000,
+          "label": "Itaipu: 14,000 MW"
+        },
+        {
+          "year": 2012,
+          "value": 22500,
+          "label": "Three Gorges: 22,500 MW"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Kallanai in India is still in use after about 1,900 years.",
+    "Sadd el-Kafara had no spillway, and a flood overtopped its core before it was done.",
+    "Banqiao was designed for 300 mm of rain a day. About 1,000 mm fell in one day near the typhoon.",
+    "USGS says Glen Canyon Dam changed the Colorado's flow, temperature and sediment, harming native fish.",
+    "Kurit Dam in Iran, built in the 1300s, was the tallest dam in the world until about 1900."
+  ],
+  "sources": [
+    {
+      "title": "Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/technology/dam-engineering"
+    },
+    {
+      "title": "Arch dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/technology/arch-dam"
+    },
+    {
+      "title": "Hydria Virtual Museum: Sadd Al-Kafara, the oldest dam in the world",
+      "publisher": "Hydria Virtual Museum (MIO-ECSDE)",
+      "url": "https://hydriaproject.info/en/case-studies/sadd-al-kafara-the-oldest-dam-in-the-world/waterworks"
+    },
+    {
+      "title": "Jawa, Jordan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jawa,_Jordan"
+    },
+    {
+      "title": "Great Dam of Marib",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Dam_of_Marib"
+    },
+    {
+      "title": "Archaeological Ensemble of Mérida",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/664/"
+    },
+    {
+      "title": "Mount Qingcheng and the Dujiangyan Irrigation System",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1001/"
+    },
+    {
+      "title": "Ancient City of Polonnaruwa",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/201/"
+    },
+    {
+      "title": "Subiaco Dams",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Subiaco_Dams"
+    },
+    {
+      "title": "Hydrology and water resources management in ancient India",
+      "publisher": "Hydrology and Earth System Sciences (Copernicus)",
+      "url": "https://hess.copernicus.org/articles/24/4691/2020/"
+    },
+    {
+      "title": "Kallanai Dam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kallanai_Dam"
+    },
+    {
+      "title": "Parakrama Samudra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parakrama_Samudra"
+    },
+    {
+      "title": "Fish ladder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fish_ladder"
+    },
+    {
+      "title": "Cragside, Rothbury (list entry 1042076)",
+      "publisher": "Historic England",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1042076?section=official-list-entry"
+    },
+    {
+      "title": "Cragside's history",
+      "publisher": "National Trust",
+      "url": "https://www.nationaltrust.org.uk/visit/north-east/cragside/history-of-cragside"
+    },
+    {
+      "title": "Vulcan Street Power Plant",
+      "publisher": "ASME",
+      "url": "https://www.asme.org/about-asme/engineering-history/landmarks/29-vulcan-street-power-plant"
+    },
+    {
+      "title": "Milestones: Vulcan Street Plant, 1882",
+      "publisher": "Engineering and Technology History Wiki (IEEE)",
+      "url": "https://ethw.org/Milestones:Vulcan_Street_Plant,_1882"
+    },
+    {
+      "title": "Lake Vyrnwy Dam: Full Report for Listed Buildings (ref. 15621)",
+      "publisher": "Cadw",
+      "url": "https://cadwpublic-api.azurewebsites.net/reports/listedbuilding/FullReport?id=15621"
+    },
+    {
+      "title": "The South Fork Dam",
+      "publisher": "U.S. National Park Service, Johnstown Flood National Memorial",
+      "url": "https://www.nps.gov/jofl/learn/historyculture/the-south-fork-dam.htm"
+    },
+    {
+      "title": "Johnstown flood",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Johnstown-flood"
+    },
+    {
+      "title": "130th Anniversary of the Bouzey Dam Failure: The Importance of Internal Uplift Pressure in Stability Design of Gravity Dams",
+      "publisher": "Association of State Dam Safety Officials (ASDSO)",
+      "url": "https://damsafety.org/node/17245"
+    },
+    {
+      "title": "Niagara Power Houses",
+      "publisher": "Edison Tech Center",
+      "url": "https://www.edisontechcenter.org/Niagara.htm"
+    },
+    {
+      "title": "M. Visvesvaraya",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M._Visvesvaraya"
+    },
+    {
+      "title": "Karl Terzaghi",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Karl-Terzaghi"
+    },
+    {
+      "title": "St. Francis Dam disaster",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/St-Francis-Dam-disaster"
+    },
+    {
+      "title": "William Mulholland",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/William-Mulholland"
+    },
+    {
+      "title": "Hoover Dam",
+      "publisher": "U.S. Bureau of Reclamation",
+      "url": "https://www.usbr.gov/lc/hooverdam/faqs/damfaqs.html"
+    },
+    {
+      "title": "Francis Crowe",
+      "publisher": "American Society of Civil Engineers",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/notable-civil-engineers/francis-crowe"
+    },
+    {
+      "title": "Grand Coulee Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Grand-Coulee-Dam"
+    },
+    {
+      "title": "Break of the Malpasset Dam",
+      "publisher": "ARIA / BARPI, French Ministry for Ecological Transition",
+      "url": "https://www.aria.developpement-durable.gouv.fr/fiche_detaillee/29490_en/?lang=en"
+    },
+    {
+      "title": "Kariba Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Kariba-Dam"
+    },
+    {
+      "title": "Aswan High Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Aswan-High-Dam"
+    },
+    {
+      "title": "Vaiont Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Vaiont-Dam"
+    },
+    {
+      "title": "Great landslide events in Italian artificial reservoirs",
+      "publisher": "Natural Hazards and Earth System Sciences (Copernicus)",
+      "url": "https://nhess.copernicus.org/articles/5/733/2005/"
+    },
+    {
+      "title": "Glen Canyon Dam",
+      "publisher": "U.S. Bureau of Reclamation, Upper Colorado Region",
+      "url": "https://www.usbr.gov/uc/rm/crsp/gc/"
+    },
+    {
+      "title": "Status and Trends of Resources Below Glen Canyon Dam Update—2009",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/fs/2009/3033/"
+    },
+    {
+      "title": "Typhoon Nina–Banqiao dam failure",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Typhoon-Nina-Banqiao-dam-failure"
+    },
+    {
+      "title": "Banqiao Dam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Banqiao_Dam"
+    },
+    {
+      "title": "Teton Dam History",
+      "publisher": "U.S. Bureau of Reclamation",
+      "url": "https://www.usbr.gov/pn/snakeriver/dams/uppersnake/teton/index.html"
+    },
+    {
+      "title": "Failure of Teton Dam, Report to U.S. Department of the Interior and State of Idaho (Independent Panel)",
+      "publisher": "Association of State Dam Safety Officials (ASDSO)",
+      "url": "https://damsafety.org/content/failure-teton-dam-report-us-department-interior-and-state-idaho"
+    },
+    {
+      "title": "Nurek Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Nurek-Dam"
+    },
+    {
+      "title": "Tallest embankment dam",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/381900-tallest-embankment-dam"
+    },
+    {
+      "title": "Itaipu Binacional",
+      "publisher": "Itaipu Binacional",
+      "url": "https://itaipu.energy/"
+    },
+    {
+      "title": "Three Gorges Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Three-Gorges-Dam"
+    },
+    {
+      "title": "Three Gorges Dam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Three_Gorges_Dam"
+    },
+    {
+      "title": "Elwha River Restoration",
+      "publisher": "U.S. National Park Service, Olympic National Park",
+      "url": "https://www.nps.gov/olym/learn/nature/elwha-ecosystem-restoration.htm"
+    },
+    {
+      "title": "Adeline Smith",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adeline_Smith"
+    },
+    {
+      "title": "Jinping-I Dam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jinping-I_Dam"
+    },
+    {
+      "title": "Oroville Dam",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Oroville-Dam"
+    }
+  ]
+}

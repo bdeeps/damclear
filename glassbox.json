@@ -1,0 +1,110 @@
+{
+  "slug": "damclear",
+  "box": 229,
+  "date": "2026-11-26",
+  "title": "DamClear",
+  "question": "How does a dam work?",
+  "hook": "A dam is a wall that holds back a lake, and the whole trick is pressure. See why the push grows with depth, how weight, arches and props answer it, how power is made, and how dams fail.",
+  "thumbText": "HOW A DAM WORKS",
+  "field": "machines",
+  "minutes": 16,
+  "tags": [
+    "dam",
+    "water pressure",
+    "hydropower",
+    "spillway",
+    "embankment",
+    "arch dam",
+    "gravity dam",
+    "engineering",
+    "flood",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Pressure grows with depth",
+      "text": "Water pushes on a wall with a pressure of density times gravity times depth. It is zero at the surface and biggest at the bottom, so the load on a dam is a triangle. The total force per metre is half density times gravity times depth squared, and it acts one third of the way up. Double the depth and the force is four times bigger. The length of the lake does not matter."
+    },
+    {
+      "title": "Weight, arches and props",
+      "text": "A gravity dam holds the lake with its own weight, using friction on the rock. An arch dam is a thin curve that turns the push sideways into the valley walls, so it needs a narrow gorge with strong rock. A buttress dam is a sloping deck on triangular walls. Water also seeps under a dam and pushes up, so drains and grout curtains keep that uplift low."
+    },
+    {
+      "title": "Mounds that leak on purpose",
+      "text": "Most big dams are embankments of earth or rock. Water always seeps through them, so a core of clay blocks most of it and filter drains carry the rest out without taking soil along. Without a core, seepage can come out of the downstream face and start to wash soil away."
+    },
+    {
+      "title": "Falling water makes power",
+      "text": "Water drops through a penstock to a turbine, which spins a generator. Power is efficiency times density times gravity times flow times head. Twice the head or twice the flow gives twice the power. A good modern turbine turns about 90 percent of the water energy into electricity."
+    },
+    {
+      "title": "Spillways, silt and fish",
+      "text": "A reservoir is a bucket: its level changes with inflow minus outflow. A spillway passes floods safely down a chute to a stilling basin. Sediment settles in the still water and slowly fills the lake, and fish need a pass or a lift to get by. Some old dams are now taken down to free the river."
+    },
+    {
+      "title": "How dams fail",
+      "text": "Dams fail in a few known ways. Water can go over the top, through the middle (piping, a tunnel that grows by erosion), or under the base (uplift on weak rock). St. Francis Dam in California failed in 1928 on a weak foundation, and at least 431 people died. Banqiao in China failed in a typhoon flood in 1975, with estimates of 26,000 to 240,000 deaths. Each failure changed how dams are checked."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Hydrostatic pressure",
+      "def": "The pressure of still water: density times gravity times depth."
+    },
+    {
+      "term": "Resultant force",
+      "def": "The single force equal to a whole spread-out load. For a dam it acts one third of the way up."
+    },
+    {
+      "term": "Gravity dam",
+      "def": "A dam that resists the water by its own weight."
+    },
+    {
+      "term": "Arch dam",
+      "def": "A thin curved dam that sends the water load sideways into the valley walls."
+    },
+    {
+      "term": "Uplift",
+      "def": "Water pressure under a dam that pushes up and reduces friction."
+    },
+    {
+      "term": "Phreatic line",
+      "def": "The top of the saturated zone of seepage inside an embankment."
+    },
+    {
+      "term": "Head",
+      "def": "The height water falls from the lake to the turbine."
+    },
+    {
+      "term": "Penstock",
+      "def": "The large pipe that carries water from the lake to the turbine."
+    },
+    {
+      "term": "Spillway",
+      "def": "The safety valve that lets floods pass a dam."
+    },
+    {
+      "term": "Piping",
+      "def": "Internal erosion that grows a tunnel through an embankment."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "damclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
